@@ -9,3 +9,4 @@ gitlab-hook
 authentication-tokens
 docker-commons
 docker-build-step
+copyartifact
